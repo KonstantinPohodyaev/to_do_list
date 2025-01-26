@@ -13,7 +13,11 @@
 
 _Проект еще в разработке! Я обязательно скоро все доделаю_
 
+<a id="author">
+
 ## Автор
+
+</a>
 
 Автор проекта: [KonstantinPohodyaev](https://github.com/KonstantinPohodyaev)  
 
