@@ -1,0 +1,23 @@
+# Игнорировать виртуальные окружения
+venv/
+.env/
+.envrc
+
+# Игнорировать кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py,cover
+
+# Игнорировать файлы зависимостей
+*.egg-info/
+dist/
+build/
+
+# Игнорировать Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Игнорировать файлы конфигурации
+*.env
+*.ini
